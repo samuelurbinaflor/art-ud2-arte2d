@@ -1,1 +1,0 @@
-# art-ud2-arte2d
